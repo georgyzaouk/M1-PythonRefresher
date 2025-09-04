@@ -1,0 +1,68 @@
+
+## Manipulating Directories
+
+cd
+cd -
+cd ..
+cd ../..
+
+pwd
+
+mkdir
+rmdir
+rmdir -f 
+rm -r
+
+ls
+
+
+## Manipulating Files
+
+touch
+touch directory/file
+(we can use absolute or relative path)
+
+vi
+gedit
+
+./file.py
+
+
+## Manipulating Permissions
+
+sudo
+sudo su
+
+chmod 
+
+
+## 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
