@@ -57,6 +57,11 @@ chmod
 
 
 
+## Exercises
+
+ex1
+ls year | grep -E "9
+
 
 
 
