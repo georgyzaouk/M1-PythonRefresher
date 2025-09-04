@@ -14,6 +14,11 @@ rmdir -f
 rm -r
 
 ls
+mv
+
+find . -name "filename"
+find directory -nale "filename"
+(we can use regex to search for filenames)
 
 
 ## Manipulating Files
@@ -27,6 +32,9 @@ gedit
 
 ./file.py
 
+grep
+grep -r
+
 
 ## Manipulating Permissions
 
@@ -36,10 +44,16 @@ sudo su
 chmod 
 
 
-## 
+## Special
 
+& (run in the background)
+&& (run in parallel)
+| (pipe)
 
-
+> (std output redirection)
+2> (error redirection)
+>> (append stdout)
+2>> (append err)
 
 
 
