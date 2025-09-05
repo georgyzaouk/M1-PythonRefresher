@@ -1,2 +1,70 @@
 
-##
+## Modularity
+
+separate your code in different files
+divide it into different modules
+
+a python package is a collection of modules
+ex sys, panda, ...
+you can import the whole package or just a module from the package
+
+we will need to create modules in our projects
+
+
+## Object Orientation
+
+so far we have done imperative prog
+we havent created any class/object
+
+in some projects we need to create classes
+an object is an instance of a class (it has attributes and methods)
+we can define different functions (called methods within a class)
+each method starts with the self parameter
+self is the name of the current object (so the method applies of the current instance)
+(Extra Assignment: try to find a case where we dont use self)
+
+#creating an object
+ex
+define class1():
+  def __innit__(attributes):  # needed to initialize an object
+
+  def method():
+    print(f"")
+
+
+# class inheritence
+save time
+if class shares attributes of a previously initailized class (object)
+ex
+define class2(class1) #inherits fro, class1
+
+#polymorphism
+different classes having the same (named) methods 
+but the methods work differently for each class
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
