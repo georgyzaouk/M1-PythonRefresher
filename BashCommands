@@ -17,8 +17,9 @@ ls
 mv
 
 find . -name "filename"
-find directory -nale "filename"
+find directory -name "filename"
 (we can use regex to search for filenames)
+find . -regex ""
 
 
 ## Manipulating Files
