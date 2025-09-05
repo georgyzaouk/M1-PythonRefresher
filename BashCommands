@@ -56,6 +56,9 @@ chmod
 2>> (append err)
 
 
+## Looping in bash
+use bash loop
+or by writing a python script importing os
 
 ## Exercises
 
